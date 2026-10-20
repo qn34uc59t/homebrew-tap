@@ -1,6 +1,6 @@
 cask "privacyscreen" do
-  version "1.0"
-  sha256 "bc764443b04b2884624417c15d655eaf084f9db0c85194478d35c2f24c946416"
+  version "1.0.1"
+  sha256 "d8581b62b3f3a9ff7c672ac48252a4162d85fd0e1f51b4636e41ff8b9d410b7d"
 
   url "https://github.com/qn34uc59t/privacy_screen/releases/download/v#{version}/PrivacyScreen-v#{version}.dmg"
   name "PrivacyScreen"
